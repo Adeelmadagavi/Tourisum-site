@@ -42,6 +42,5 @@ Welcome to the official repository of **Dandeli Green Adventure** — a fully re
 | WhatsApp API | Direct chat support |
 
 
-└── 📄 booking.html
 
 
