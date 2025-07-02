@@ -1,7 +1,5 @@
 # 🌿 Dandeli Green Adventure
 
-![Website Preview](https://dandeligreenadventure.in/assets/banner.jpg) <!-- Optional: Update this to an actual preview image link -->
-
 Welcome to the official repository of **Dandeli Green Adventure** — a fully responsive, SEO-optimized travel and adventure booking website tailored for the lush destination of Dandeli, Karnataka.
 
 ## 🌐Live Website
